@@ -9,6 +9,7 @@ public class EjerciciosTema3 {
 
         for (String nombre : nombres) {
             System.out.print(nombre + " ");
+
         }
     }
 }
